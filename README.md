@@ -1,3 +1,3 @@
 # Words
-<img width="500" height="500" alt="1000001184" src="https://github.com/user-attachments/assets/0ddfe2a8-1e96-43ec-83c2-5c2fe741079b" />
 A language by Jessica Emberly.
+<img width="500" height="500" alt="1000001184" src="https://github.com/user-attachments/assets/f4b3979f-06d9-4adf-afc7-2ce43550a9e8" />
