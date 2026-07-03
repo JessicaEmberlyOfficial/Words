@@ -7,8 +7,14 @@ A language by Jessica Emberly.
 * Python
 
 # Usage
-```git clone https://github.com/JessicaEmberlyOfficial/Words```
+```
+git clone https://github.com/JessicaEmberlyOfficial/Words
+```
 
-```cd Words```
+```
+cd Words
+```
 
-```python run.y```
+```
+python run.py
+```
